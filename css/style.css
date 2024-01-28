@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Dancing+Script:wght@600&family=Inter:wght@100&family=Kalam&family=Satisfy&display=swap');
+body {
+    margin: 200;
+    text-align: center;
+    font-size: 2em;
+    background-color: #F5EEE6;
+
+}
+
+h1{
+  background-color: #F5EEE6;
+  color: #FB8B24;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+ font-family: 'Dancing Script', cursive;
+  font-size: 70px;
+  font-style: italic;
+
+}
+p{
+  background-color: #F5EEE6;
+  margin-top: 0;
+  color:#FB8B24;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 35px;
+  font-style:normal;
+}
+
+.firstdiv{
+  background-color: #F5EEE6;
+  margin: 0;
+  height:600px;
+}
+.cloud1{
+  margin-left: -70%;
+  margin-bottom:0%;
+  position:relative;
+}
+.cloud2{
+
+  margin-top: -70%;
+  margin-left: -270px;
+  position: relative;
+}
+.cloud3{
+  margin-left: 930px;
+  margin-bottom: -70%;
+  position: relative;
+}
+
+.mountain{
+  margin-top: -70px;
+  width: 50%%;
+  align:center;
+}
+.profile{
+  text-align:center;
+}
